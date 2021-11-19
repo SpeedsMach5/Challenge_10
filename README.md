@@ -1,2 +1,2 @@
-# Challenge_10
+# Challenge10
 PCA and kmeans clustering
